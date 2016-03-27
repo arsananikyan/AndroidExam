@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidExam</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus condimentum, mauris nec ornare aliquet, nisl nunc interdum quam, sed tincidunt lacus nisl ut ipsum. Phasellus nunc risus, posuere sit amet tortor sed, fermentum sodales risus. Pellentesque magna diam, consequat nec felis vitae, commodo consequat orci. Fusce vitae nunc id massa tincidunt sagittis pretium sed mauris. Donec auctor ipsum ut nisi mattis malesuada. Nullam congue, nibh scelerisque rutrum tempus, leo justo consectetur urna, eget venenatis nisl dui quis ipsum. Curabitur rhoncus purus in augue lacinia condimentum. Duis lobortis ultricies ligula quis tempor. Vestibulum porta purus porta velit accumsan convallis. Aenean risus tortor, finibus non tellus nec, lobortis vehicula augue. Mauris dolor quam, scelerisque laoreet libero in, hendrerit aliquet nisl.</string>
+
 </resources>
